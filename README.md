@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-    <a href="https://instagram.com/elvasfelipe" target=" _blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/felipe_elvas/" target=" _blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:felipeelvas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
   <a href="https://www.linkedin.com/in/felipe-elvas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
