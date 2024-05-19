@@ -30,6 +30,9 @@ Here are some ideas to get you started:
  
  <br>
  
+ # ProjetoBuzzfeed
+Click Here to access the quiz. [BuzzFeedClone](https://projeto-buzz-feed-ochre.vercel.app/)
+ 
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
