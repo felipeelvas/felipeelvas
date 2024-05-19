@@ -32,6 +32,10 @@ Here are some ideas to get you started:
  
  # ProjetoBuzzfeed
 Click Here to access the quiz. [BuzzFeedClone](https://projeto-buzz-feed-ochre.vercel.app/)
+
+<br>
+# AngularBlog
+Project Angular-Blog => [Click Here](https://angular-blog-felipes-projects-8d758913.vercel.app/)
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
