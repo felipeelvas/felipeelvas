@@ -13,7 +13,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felipeelvas)
 <br>
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeelvas&show_icons=true&theme=dracula)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeelvas&layout=compact&langs_count=6&theme=tokyonight"/>
 
 
@@ -44,8 +43,12 @@ Click Here to access the quiz. [BuzzFeedClone](https://projeto-buzz-feed-ochre.v
 Project Angular-Blog => [Click Here](https://angular-blog-felipes-projects-8d758913.vercel.app/)
 
 <br>
-![Snake animation](https://github.com/felipeelvas/Felipe-Elvas/blob/output/github-contribution-grid-snake.svg)
+<div>
+![Snake animation](https://github.com/felipeelvas/Felipe-Elvas/blob/output/github-contribution-grid-snake.svg) 
+</div>
+
 <br>
+
 #### Apaixonado por Tecnologia, educação e desenvolvimento para contribuir com a evolução e qualidade de vida das pessoas através da programação.
 
 ## Últimos vídeos:
