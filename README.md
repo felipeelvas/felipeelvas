@@ -44,7 +44,7 @@ Project Angular-Blog => [Click Here](https://angular-blog-felipes-projects-8d758
 
 <br>
 <div>
-![Snake animation](https://github.com/felipeelvas/felipeelvas/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/felipeelvas/felipe-elvas/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 <br>
