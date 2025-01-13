@@ -1,33 +1,38 @@
-### Hello World!, I'am Felipe Elvas 👋
 
-<!--
-**felipeelvas/felipeelvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello, I'am Felipe Elvas 👋🏼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Bem-vindo(a) ao perfil do Felipe Elvas 😁
+- 🔭 I am currently working as a technology and programming intern at [Facilite](https://www.facilite.co/).
+- 🌱 I'm currently learning mobile development with Flutter...
+- 📫 How to reach me: <br> [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/PRLGMKOFK45MA1)...
 
- <div>
-   <a href="https://github.com/felipeelvas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeelvas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeelvas&layout=compact&langs_count=6&theme=tokyonight"/>
+- ⚡ Fun fact: - ⚡ Fun fact: I'm a hairdresser and a programming enthusiast......
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://dashboard.twitch.tv/u/elvasf/home)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_elvas/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felipeelvas)
+<br>
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeelvas&show_icons=true&theme=dracula)
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeelvas&layout=compact&langs_count=6&theme=tokyonight"/>
+
+
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img aling="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br>
+<img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img aling="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+<img aling="center" alt="Nodejs" 
+src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br>
+<img aling="center" alt="Postgresql" 
+src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div><br>
+
  <br>
  
  # ProjetoBuzzfeed
@@ -37,14 +42,11 @@ Click Here to access the quiz. [BuzzFeedClone](https://projeto-buzz-feed-ochre.v
 
  # AngularBlog
 Project Angular-Blog => [Click Here](https://angular-blog-felipes-projects-8d758913.vercel.app/)
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-    <a href="https://www.instagram.com/felipe_elvas/" target=" _blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:felipeelvas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-elvas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/felipeelvas/Felipe-Elvas/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+![Snake animation](https://github.com/felipeelvas/Felipe-Elvas/blob/output/github-contribution-grid-snake.svg)
+
+
+#### Apaixonado por Tecnologia, educação e desenvolvimento para contribuir com a evolução e qualidade de vida das pessoas através da programação.
+
+## Últimos vídeos:
+- [Como personalizar o seu perfil no Github](https://www.youtube.com/watch?v=cRoBt6AZgjc)<br>
