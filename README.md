@@ -47,9 +47,10 @@ Explore my Flutter project for a shopping app: [Shop App Flutter](https://github
 
 ---
 
-<div>
-  ![Snake animation](https://github.com/felipeelvas/felipe-elvas/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/felipeelvas/felipe-elvas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
