@@ -45,25 +45,14 @@ Meu objetivo é consolidar minha carreira como **desenvolvedor mobile** e, no fu
 ---
 
 ## 📊 GitHub Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeelvas&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeelvas&layout=compact&theme=dark)
-
----
-
-✨ Sempre aprendendo, criando e testando novas ideias com **IA Generativa, Flutter e Java**.  
-
-
-## 📌 Projetos em Destaque
-
-- [IMC Calculator (Flutter)](https://github.com/felipeelvas/desafio_imc)  
-- [Angular Blog + Spring Boot](https://angular-blog-felipes-projects-8d758913.vercel.app/)  
-- [BuzzFeed Clone](https://projeto-buzz-feed-ochre.vercel.app/)  
-
-## 📊 GitHub Stats
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeelvas&show_icons=true&theme=dark)
 
 ## 🧠 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeelvas&layout=compact&theme=dark)
+
+---
+
+✨ Sempre aprendendo, criando e testando novas ideias com **IA Generativa, Flutter e Java**.  
 
