@@ -33,3 +33,41 @@
 ---
 
 ✨ Sempre aprendendo, criando e testando novas ideias com **IA Generativa, Flutter e Java**.  
+
+# Olá! Eu sou Felipe Elvas (felipeelvas) 👋
+
+Sou **Desenvolvedor de Software Mobile e Web**, apaixonado por criar soluções que unem **tecnologia, usabilidade e inovação**.  
+Atualmente foco em **Flutter & Dart para mobile**, **Angular para frontend** e **Spring Boot (Java) para backend**, sempre buscando aplicar boas práticas de arquitetura, testes e integração.  
+
+## 🏢 Atuação Profissional
+
+- **Facilite S/A** — Estagiário em Desenvolvimento de Software (2023 - atual)  
+  Atuação em rotinas financeiras, integração de extratos bancários, i18n em Angular e Flutter, melhorias de UI/UX e testes automatizados.
+
+## 📱 Especialidades
+
+- **Mobile:** Flutter & Dart  
+- **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript  
+- **Backend:** Java (Spring Boot), Node.js  
+- **Banco de Dados:** PostgreSQL, MySQL  
+- **Outros:** Testes unitários (flutter_test, mockito), UI/UX, integração frontend-backend
+
+## 🚀 O que me motiva
+
+Atualmente estudo **IA Generativa** para acelerar meu aprendizado, explorar novas formas de produtividade e expandir minha visão em projetos mobile e fullstack.  
+Meu objetivo é consolidar minha carreira como **desenvolvedor mobile** e, no futuro, atuar como **fullstack developer**, entregando soluções performáticas e com ótima experiência de uso.
+
+## 📌 Projetos em Destaque
+
+- [IMC Calculator (Flutter)](https://github.com/felipeelvas/desafio_imc)  
+- [Angular Blog + Spring Boot](https://angular-blog-felipes-projects-8d758913.vercel.app/)  
+- [BuzzFeed Clone](https://projeto-buzz-feed-ochre.vercel.app/)  
+
+## 📊 GitHub Stats
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeelvas&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeelvas&layout=compact&theme=dark)
+
