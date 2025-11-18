@@ -35,7 +35,7 @@ Meu objetivo é consolidar minha carreira como **desenvolvedor mobile** e, no fu
 
 ---
 
-## 📌 Projetos em Destaque
+# 📌 Projetos em Destaque
 - 🧮 [IMC Calculator (Flutter)](https://github.com/felipeelvas/desafio_imc)  
 - 🛒 [Shop App Flutter](https://github.com/felipeelvas/shop_app_flutter)  
 - 📦 [Flutter Components & Tests](https://github.com/felipeelvas) *(explorando boas práticas, animações e testes)*  
