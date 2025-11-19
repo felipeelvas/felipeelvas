@@ -1,4 +1,4 @@
-# Olá! Eu sou Felipe Elvas (felipeelvas) 👋
+# Olá! Eu sou Felipe👋
 
 Sou **Desenvolvedor de Software Mobile e Web**, apaixonado por criar soluções que unem **tecnologia, usabilidade e inovação**.  
 Atualmente foco em **Flutter & Dart para mobile**, **Angular para frontend** e **Spring Boot (Java) para backend**, sempre buscando aplicar boas práticas de arquitetura, testes e integração.  
